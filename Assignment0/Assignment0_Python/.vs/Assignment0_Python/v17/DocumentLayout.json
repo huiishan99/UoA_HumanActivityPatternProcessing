@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HuiShan\\Documents\\HAPP\\Assignment0\\Assignment0_Python\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334A3443-1144-48EB-88C9-4863E66E25C6}|Assignment0_Python.pyproj|C:\\Users\\HuiShan\\Documents\\HAPP\\Assignment0\\Assignment0_Python\\Assignment0_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{334A3443-1144-48EB-88C9-4863E66E25C6}|Assignment0_Python.pyproj|solutionrelative:Assignment0_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment0_Python.py",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\HAPP\\Assignment0\\Assignment0_Python\\Assignment0_Python.py",
+              "RelativeDocumentMoniker": "Assignment0_Python.py",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\HAPP\\Assignment0\\Assignment0_Python\\Assignment0_Python.py",
+              "RelativeToolTip": "Assignment0_Python.py",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-13T08:35:19.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
