@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HuiShan\\Documents\\HAPP\\Assignment0\\Assignment0_Python\\",
+  "WorkspaceRootPath": "C:\\Users\\HuiShan\\Documents\\GitHub\\UoA\\HumanActivityPatternProcessing\\Assignment0\\Assignment0_Python\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{334A3443-1144-48EB-88C9-4863E66E25C6}|Assignment0_Python.pyproj|C:\\Users\\HuiShan\\Documents\\HAPP\\Assignment0\\Assignment0_Python\\Assignment0_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{334A3443-1144-48EB-88C9-4863E66E25C6}|Assignment0_Python.pyproj|C:\\Users\\HuiShan\\Documents\\GitHub\\UoA\\HumanActivityPatternProcessing\\Assignment0\\Assignment0_Python\\Assignment0_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{334A3443-1144-48EB-88C9-4863E66E25C6}|Assignment0_Python.pyproj|solutionrelative:Assignment0_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Assignment0_Python.py",
-              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\HAPP\\Assignment0\\Assignment0_Python\\Assignment0_Python.py",
+              "DocumentMoniker": "C:\\Users\\HuiShan\\Documents\\GitHub\\UoA\\HumanActivityPatternProcessing\\Assignment0\\Assignment0_Python\\Assignment0_Python.py",
               "RelativeDocumentMoniker": "Assignment0_Python.py",
-              "ToolTip": "C:\\Users\\HuiShan\\Documents\\HAPP\\Assignment0\\Assignment0_Python\\Assignment0_Python.py",
+              "ToolTip": "C:\\Users\\HuiShan\\Documents\\GitHub\\UoA\\HumanActivityPatternProcessing\\Assignment0\\Assignment0_Python\\Assignment0_Python.py",
               "RelativeToolTip": "Assignment0_Python.py",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCcAAAA9AAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-04-13T08:35:19.644Z",
               "EditorCaption": ""
